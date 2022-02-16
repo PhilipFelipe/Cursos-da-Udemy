@@ -1,0 +1,43 @@
+<video id="meuVideo" width="800" height="400" controls controlsList="nodownload" oncontextmenu="return false">
+    <source src="http://files.cod3r.com.br/curso-web/video.mp4" type="video/mp4">
+    Seu browser não suporta a tag de vídeo.
+</video>
+
+<div wm-progresso="meuVideo" class="progresso">
+    <label id="timer" for="progress" role="timer"></label>
+    <progress id="progress" max="100" value="0">progresso</progress>
+</div>
+
+<div id='botoes'>
+    <button wm-play="meuVideo" onclick="playVideo()">Play</button>
+    <button wm-pause="meuVideo" onclick="pauseVideo()">Pause</button>
+</div>
+
+<script src="controlar-video/scripts.js"></script>
+<style>
+    progress {
+        width: 330px;
+        height: 20px;
+        margin-top: 20px;
+    }
+
+    progress[value] {
+        appearance: none;
+        border: none;
+        color: #e52e71
+    }
+
+    progress[value]::-webkit-progress-value {
+        background-image: linear-gradient(to right, #ff8a00, #e52e71);
+        transition: width 1s linear;
+    }
+
+    #botoes {
+        padding-top: 10px;
+        padding-left: auto;
+    }
+
+    #timer {
+        padding-left: 5px;
+    }
+</style>

@@ -1,0 +1,14 @@
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\netcoreapp3.1\Problema_Soma_Vetor.exe
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\netcoreapp3.1\Problema_Soma_Vetor.deps.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\netcoreapp3.1\Problema_Soma_Vetor.runtimeconfig.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\netcoreapp3.1\Problema_Soma_Vetor.runtimeconfig.dev.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\netcoreapp3.1\Problema_Soma_Vetor.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\bin\Debug\netcoreapp3.1\Problema_Soma_Vetor.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\netcoreapp3.1\Problema_Soma_Vetor.csproj.AssemblyReference.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\netcoreapp3.1\Problema_Soma_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\netcoreapp3.1\Problema_Soma_Vetor.AssemblyInfoInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\netcoreapp3.1\Problema_Soma_Vetor.AssemblyInfo.cs
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\netcoreapp3.1\Problema_Soma_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\netcoreapp3.1\Problema_Soma_Vetor.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\netcoreapp3.1\Problema_Soma_Vetor.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Vetor\Problema_Soma_Vetor\obj\Debug\netcoreapp3.1\Problema_Soma_Vetor.genruntimeconfig.cache

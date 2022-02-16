@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema_Idades", "Problema_Idades\Problema_Idades.csproj", "{82C44E2F-DC1F-43A5-964B-0C96AC58A674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C44E2F-DC1F-43A5-964B-0C96AC58A674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C44E2F-DC1F-43A5-964B-0C96AC58A674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C44E2F-DC1F-43A5-964B-0C96AC58A674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C44E2F-DC1F-43A5-964B-0C96AC58A674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0880047-1DD0-48DA-A227-0E861F14E37E}
+	EndGlobalSection
+EndGlobal

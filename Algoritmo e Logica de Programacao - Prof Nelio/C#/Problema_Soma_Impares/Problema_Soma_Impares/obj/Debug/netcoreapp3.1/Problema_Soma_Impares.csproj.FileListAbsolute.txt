@@ -1,0 +1,14 @@
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\obj\Debug\netcoreapp3.1\Problema_Soma_Impares.csproj.AssemblyReference.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\obj\Debug\netcoreapp3.1\Problema_Soma_Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\obj\Debug\netcoreapp3.1\Problema_Soma_Impares.AssemblyInfoInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\obj\Debug\netcoreapp3.1\Problema_Soma_Impares.AssemblyInfo.cs
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\obj\Debug\netcoreapp3.1\Problema_Soma_Impares.csproj.CoreCompileInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\bin\Debug\netcoreapp3.1\Problema_Soma_Impares.exe
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\bin\Debug\netcoreapp3.1\Problema_Soma_Impares.deps.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\bin\Debug\netcoreapp3.1\Problema_Soma_Impares.runtimeconfig.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\bin\Debug\netcoreapp3.1\Problema_Soma_Impares.runtimeconfig.dev.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\bin\Debug\netcoreapp3.1\Problema_Soma_Impares.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\bin\Debug\netcoreapp3.1\Problema_Soma_Impares.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\obj\Debug\netcoreapp3.1\Problema_Soma_Impares.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\obj\Debug\netcoreapp3.1\Problema_Soma_Impares.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Soma_Impares\Problema_Soma_Impares\obj\Debug\netcoreapp3.1\Problema_Soma_Impares.genruntimeconfig.cache

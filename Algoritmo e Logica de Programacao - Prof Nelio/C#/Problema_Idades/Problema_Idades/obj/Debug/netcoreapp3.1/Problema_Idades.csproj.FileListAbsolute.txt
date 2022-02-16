@@ -1,0 +1,14 @@
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.csproj.AssemblyReference.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.AssemblyInfoInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.AssemblyInfo.cs
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.csproj.CoreCompileInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.exe
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.deps.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.runtimeconfig.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.runtimeconfig.dev.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\bin\Debug\netcoreapp3.1\Problema_Idades.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Idades\Problema_Idades\obj\Debug\netcoreapp3.1\Problema_Idades.genruntimeconfig.cache

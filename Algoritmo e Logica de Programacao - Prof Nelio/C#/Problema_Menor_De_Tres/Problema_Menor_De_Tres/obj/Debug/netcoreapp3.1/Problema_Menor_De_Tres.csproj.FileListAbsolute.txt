@@ -1,0 +1,14 @@
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\bin\Debug\netcoreapp3.1\Problema_Menor_De_Tres.exe
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\bin\Debug\netcoreapp3.1\Problema_Menor_De_Tres.deps.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\bin\Debug\netcoreapp3.1\Problema_Menor_De_Tres.runtimeconfig.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\bin\Debug\netcoreapp3.1\Problema_Menor_De_Tres.runtimeconfig.dev.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\bin\Debug\netcoreapp3.1\Problema_Menor_De_Tres.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\bin\Debug\netcoreapp3.1\Problema_Menor_De_Tres.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\obj\Debug\netcoreapp3.1\Problema_Menor_De_Tres.csproj.AssemblyReference.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\obj\Debug\netcoreapp3.1\Problema_Menor_De_Tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\obj\Debug\netcoreapp3.1\Problema_Menor_De_Tres.AssemblyInfoInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\obj\Debug\netcoreapp3.1\Problema_Menor_De_Tres.AssemblyInfo.cs
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\obj\Debug\netcoreapp3.1\Problema_Menor_De_Tres.csproj.CoreCompileInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\obj\Debug\netcoreapp3.1\Problema_Menor_De_Tres.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\obj\Debug\netcoreapp3.1\Problema_Menor_De_Tres.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Menor_De_Tres\Problema_Menor_De_Tres\obj\Debug\netcoreapp3.1\Problema_Menor_De_Tres.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.AssemblyInfoInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.AssemblyInfo.cs
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.csproj.CoreCompileInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.csproj.AssemblyReference.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.exe
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.deps.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.runtimeconfig.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.runtimeconfig.dev.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\bin\Debug\netcoreapp3.1\Problema_Crescente.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Crescente\Problema_Crescente\obj\Debug\netcoreapp3.1\Problema_Crescente.genruntimeconfig.cache

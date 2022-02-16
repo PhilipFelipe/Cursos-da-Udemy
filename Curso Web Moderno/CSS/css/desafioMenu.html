@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Menu</title>
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            background-color: rgb(214, 255, 245);
+            font-size: 16px;
+            font-family: Georgia, serif;
+        }
+
+        .cabecalho {
+            background-color: rgba(22, 22, 22, .98);
+            height: 70px;
+            box-shadow: 0px  5px 5px 1px rgb(26, 171, 255);
+        }
+
+
+        .logo img {
+            width: 250px;
+        }
+ 
+
+        .menu ul {
+            list-style-type: none;
+            width: 200px;
+            margin: 0;
+            padding: 0;
+        }
+
+
+        .menu a {
+            font-size: 1.1em;
+            color: white;
+            text-decoration: none;
+            padding: 15px;
+        }
+
+        .menu a:hover, .menu a.selected {
+            background: whitesmoke;
+            color:rgb(22, 22, 22);
+            font-size: 1.3em;
+            transition: .2s;
+        }
+
+        .autenticacao {
+            top: 10px;
+            right: 15px;
+            height: 10%;
+            font-size: small;
+        }
+
+        .login {
+            right: 110px;
+        }
+
+        .login:hover {
+            background-color: whitesmoke;
+            color: black;
+            font-size: 1.3em;
+            transition: .2s;
+        }
+
+        .botao {
+            background-color: tomato;
+            border: none;
+            box-shadow: 1px 1px orange ;
+
+        }
+        
+
+        .botao:hover {
+            background-color: coral;
+            font-size: 1.3em;
+            transition: .2s;
+        }
+
+        .autenticacao {
+            display: flex;
+            align-items: center;
+        }
+
+        .autenticacao a {
+            font-size: 1.1em;
+            color: white;
+            padding: 10px;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        /* FLEX-BOX SOLUTION */
+        .cabecalho {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .menu {
+            flex-grow: 10;
+
+        }
+
+        .menu ul {
+            display: flex;
+
+        }
+
+        .menu li {
+            margin: 0px 10px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <header class="cabecalho">
+        <div class="logo">
+            <a href="#inicio">
+                <img src="http://files.cod3r.com.br/curso-web/logo.png" alt="Logo" />
+            </a>
+        </div>
+        <nav class="menu">
+            <ul>
+                <li>
+                    <a href="#inicio">Início</a>
+                </li>
+                <li>
+                    <a href="#cursos">Cursos</a>
+                </li>
+                <li>
+                    <a href="#sobre">Sobre</a>
+                </li>
+                <li>
+                    <a href="#contato">Contato</a>
+                </li>
+            </ul>
+        </nav>
+        <aside class="autenticacao">
+            <a href="#registar" class="botao destaque">Registrar</a>
+            <a href="#login" class="login">Login</a>
+        </aside>
+    </header>
+
+    <script>
+        window.onhashchange = function(e) {
+            const oldURL = e.oldURL.split('#')[1]
+            const newURL = e.newURL.split('#')[1]
+            console.log(oldURL, newURL)
+            const oldMenu = document.querySelector(`.menu a[href='#${oldURL}']`)
+            const newMenu = document.querySelector(`.menu a[href='#${newURL}']`)
+            oldMenu && oldMenu.classList.remove('selected')
+            newMenu && newMenu.classList.add('selected')
+        }
+    </script>
+</body>
+
+</html>

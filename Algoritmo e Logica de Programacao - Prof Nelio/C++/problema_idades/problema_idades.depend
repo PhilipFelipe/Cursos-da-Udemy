@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635946001 source:c:\users\wakez\documents\felipe\udemy\c++\problema_idades\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

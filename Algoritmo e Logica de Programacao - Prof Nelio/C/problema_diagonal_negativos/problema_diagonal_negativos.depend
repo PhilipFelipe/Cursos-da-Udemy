@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635515718 source:c:\users\wakez\documents\felipe\udemy\c\problema_diagonal_negativos\main.c
+	<stdio.h>
+	<stdlib.h>
+

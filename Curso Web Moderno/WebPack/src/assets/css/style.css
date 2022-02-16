@@ -1,0 +1,8 @@
+body {
+    background-color: greenyellow;
+    background-image: url(../img/imagem.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+

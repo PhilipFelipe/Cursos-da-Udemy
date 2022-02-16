@@ -1,0 +1,14 @@
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.exe
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.deps.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.runtimeconfig.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.runtimeconfig.dev.json
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\bin\Debug\netcoreapp3.1\Problema_Retangulo.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.csproj.AssemblyReference.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.AssemblyInfoInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.AssemblyInfo.cs
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.dll
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.pdb
+C:\Users\wakez\Documents\Felipe\Udemy\Algoritmo e Logica de Programacao - Prof Nelio\C#\Problema_Retangulo\Problema_Retangulo\obj\Debug\netcoreapp3.1\Problema_Retangulo.genruntimeconfig.cache

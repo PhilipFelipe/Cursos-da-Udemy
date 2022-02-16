@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635425794 source:c:\users\wakez\documents\felipe\udemy\c\problema_bhaskara\main.c
+	<stdio.h>
+	<math.h>
+

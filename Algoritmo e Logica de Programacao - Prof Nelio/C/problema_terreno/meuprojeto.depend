@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635350297 source:c:\users\wakez\documents\felipe\udemy\c\meuprojeto\main.c
+
+1635421264 source:c:\users\wakez\documents\felipe\udemy\c\meuprojeto\problema_terreno.c
+	<stdio.h>
+
+1635421236 source:c:\users\wakez\documents\felipe\udemy\c\meuprojeto\problema_retangulo.c
+	<stdio.h>
+

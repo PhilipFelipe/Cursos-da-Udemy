@@ -1,0 +1,22 @@
+Algoritmo "problema_pagamento"
+
+Var
+
+ horas, valor, salario : real
+ nome : caractere
+
+Inicio
+
+ escreva("Nome: ")
+ leia(nome)
+ escreva("Valor por hora: ")
+ leia(valor)
+ escreva("Horas trabalhadas: ")
+ leia(horas)
+
+ salario <- valor * horas
+ 
+ escreva("O pagamento para ", nome, " deve ser", salario)
+ 
+
+Fimalgoritmo
