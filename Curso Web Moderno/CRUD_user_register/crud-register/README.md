@@ -1,6 +1,6 @@
 # Simple CRUD user register project.
 
-###Used Techs
+### Used Techs
 1. React
 2. Typescript
 3. Next.JS
